@@ -10,4 +10,4 @@
 
 ## 🔗Figma Link
 
-https://www.figma.com/make/Bwzp7qAQ6EVX5jysSrcUiw/Smart-Water-Monitoring-App?t=2DFdS3tebJaolr9Z-1
+https://www.figma.com/make/Bwzp7qAQ6EVX5jysSrcUiw/Smart-Water-Monitoring-App?p=f&t=UxhuNWoYo52i1m2N-0
